@@ -1,4 +1,4 @@
-<h1 align="center">  InjectAI </h1> 
+<h1 align="center">  Inject AI </h1> 
 
 ---
 ## AI-Powered Crypto Insights  
