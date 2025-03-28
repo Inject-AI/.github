@@ -10,19 +10,17 @@
 
 ## 🔗 Get Started  
 - **Website:** [Coming Soon]  
-- **Telegram Mini App:** [Coming soon](#)  
+- **Telegram Mini App:** [Coming soon] 
 - **Docs:** [Coming Soon]  
 
 ## 📌 Roadmap  
 - **Q1 2025:** Beta launch with real-time insights and AI chatbot.  
 - **Q2 2025:** Advanced AI analytics and DAO voting insights.  
 - **Q3-Q4 2025:** Multi-chain analytics, premium features, and ecosystem growth.  
-
-## 🤝 Contribute  
-We welcome contributions! Check our [issues](#) and feel free to open PRs.  
+  
 
 ## 📢 Join the Community  
 - **Twitter:** [@InjectAI](#)  
-- **Discord:** [coming soon](#)  
+- **Discord:** [coming soon] 
 
 ---
