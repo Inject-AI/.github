@@ -1,2 +1,28 @@
-# InjectAI
-### Inject AI is an AI-powered Telegram mini app designed to provide crypto enthusiasts and investors with real-time, data-driven market insights and analytics powered by the Injective blockchain. This unique bot helps users stay updated on token prices, market trends, and blockchain events—all through an intuitive and user-friendly interface on Telegram.
+# 🚀 Inject AI – AI-Powered Crypto Insights  
+
+**Inject AI** is an advanced AI-driven crypto insights platform built on the **Injective blockchain**, offering real-time market analytics, predictive insights, and interactive AI chat.  
+
+## 🔹 Core Features  
+- **Market Insights** – Aggregates live blockchain data for instant analysis.  
+- **AI Chatbot** – Answers crypto queries, generates token reports, and provides DAO voting insights.  
+- **Knowl Points** – Earn rewards for engagement and knowledge growth.  
+- **Keplr Wallet Integration** – Secure Web3 authentication for users.  
+
+## 🔗 Get Started  
+- **Website:** [Coming Soon]  
+- **Telegram Mini App:** [Coming soon](#)  
+- **Docs:** [Coming Soon]  
+
+## 📌 Roadmap  
+- **Q1 2025:** Beta launch with real-time insights and AI chatbot.  
+- **Q2 2025:** Advanced AI analytics and DAO voting insights.  
+- **Q3-Q4 2025:** Multi-chain analytics, premium features, and ecosystem growth.  
+
+## 🤝 Contribute  
+We welcome contributions! Check our [issues](#) and feel free to open PRs.  
+
+## 📢 Join the Community  
+- **Twitter:** [@InjectAI](#)  
+- **Discord:** [coming soon](#)  
+
+---
