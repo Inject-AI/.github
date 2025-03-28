@@ -1,4 +1,4 @@
-# 🚀 Inject AI – AI-Powered Crypto Insights  
+# Inject AI – AI-Powered Crypto Insights  
 
 **Inject AI** is an advanced AI-driven crypto insights platform built on the **Injective blockchain**, offering real-time market analytics, predictive insights, and interactive AI chat.  
 
