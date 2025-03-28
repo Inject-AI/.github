@@ -20,7 +20,7 @@
   
 
 ## 📢 Join the Community  
-- **Twitter:** [@InjectAI](#)  
+- **Twitter:** [@Inject_AI](#)  
 - **Discord:** [coming soon] 
 
 ---
