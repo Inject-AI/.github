@@ -1,7 +1,7 @@
 <h1 align="center">  InjectAI </h1> 
 
 ---
-#AI-Powered Crypto Insights  
+## AI-Powered Crypto Insights  
 
 **Inject AI** is an advanced AI-driven crypto insights platform built on the **Injective blockchain**, offering real-time market analytics, predictive insights, and interactive AI chat.  
 
